@@ -1,0 +1,10 @@
+{
+  "name": "JMSMessaging",
+  "label": "JMS Messaging",
+  "description": "Provides actions for JMS operations.",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "commands": []
+}
